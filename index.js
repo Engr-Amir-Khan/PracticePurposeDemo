@@ -5,3 +5,4 @@ if(age>10){
 }else{
     console.log("you are too young");
 }
+const amir = "khan";
